@@ -1,13 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-}
 
-body {
-  padding: 20px;
-  background: #eee;
-  user-select: none;
-}
 
 [type=radio] {
   display: none;
